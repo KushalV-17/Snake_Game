@@ -9,10 +9,20 @@ Some of the below images  demonstrates the game.
 
 ![opt1](https://github.com/KushalV-17/Snake_Game/assets/173029490/08bf4fe7-a022-4709-b6f2-bce7407d51f2)
 
+
+
 ![opt2](https://github.com/KushalV-17/Snake_Game/assets/173029490/45f750fb-64bb-46ea-8e94-f9f3d860c60e)
+
+
 
 ![opt3](https://github.com/KushalV-17/Snake_Game/assets/173029490/93d11433-bab3-4bb6-9fee-180a9e5f3a7f)
 
+
+
 ![opt4](https://github.com/KushalV-17/Snake_Game/assets/173029490/25b3c7db-93a7-4786-8ab2-ed68235b6ec0)
+
+
+
+In order to run the game on your PC, download the above python scripts and run game.py
 
 
